@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## [Live Demo](https://weather-46qgpvzno-ozan-sert.vercel.app/)
+## [Live Demo](https://weather-app-three-plum.vercel.app/)
 
 Weather App made with React, Tailwind for CSS, axios is used to make an API call to the Open Weather Map servers, which returns JSON data that displayed on the screen.
 
